@@ -17,7 +17,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 | ID | Problem Title | Solution & Note | Topic / Technique | Complexity |
 | :---: | :--- | :---: | :--- | :---: |
-| 100 | The 3n + 1 problem | [Link](./UVA/100_3nPlus1/) | Simulation, Range Normalization, Pass-by-Reference | $O(|i - j| \cdot L)$ |
+| 100 | The 3n + 1 problem | [Link](./UVA/100_The%203n%20+%201%20problem/) | Simulation, Range Normalization, Pass-by-Reference | $O(|i - j| \cdot L)$ |
 
 ---
 

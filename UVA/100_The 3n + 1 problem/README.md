@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Summary & Technical Highlights
+## Summary & Technical Highlights
 
 - **Goal:** Find the maximum cycle length among all integers between $i$ and $j$ (inclusive).
 - **Range Normalization:** Inputs are not guaranteed to be ordered ($i \le j$). Use `std::min` and `std::max` to normalize loop bounds while preserving original `(i, j)` for output.
@@ -14,7 +14,7 @@
 
 ---
 
-## ⏱️ Complexity
+## Complexity
 
 - **Time Complexity:** $O(|i - j| \cdot L)$ — where $L$ is the average cycle steps for each integer in the range.
 - **Space Complexity:** $O(1)$ — constant space requirement.
