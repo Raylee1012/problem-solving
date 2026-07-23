@@ -16,5 +16,5 @@
 
 ## Complexity
 
-- **Time Complexity:** $O(|i - j| \cdot L)$ — where $L$ is the average cycle steps for each integer in the range.
+- **Time Complexity:** $O(N)$ — where $N$ is the number of integers in the range $[i, j]$.
 - **Space Complexity:** $O(1)$ — constant space requirement.
