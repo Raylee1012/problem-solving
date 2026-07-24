@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 1
-- **UVa:** 1
+- **Total Solved:** 2
+- **UVa:** 2
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -18,6 +18,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | ID | Problem Title | Solution & Note | Topic / Technique | Complexity |
 | :---: | :--- | :---: | :--- | :---: |
 | 100 | The 3n + 1 problem | [Link](./UVa/100_The%203n%20%2B%201%20problem/) | Simulation, Range Normalization, Pass-by-Reference | $O(N)$ |
+| 118 | Mutant Flatworld Explorers | [Link](./UVa/118_Mutant%20Flatworld%20Explorers/) | Grid Simulation, State Machine, Boundary Checking | $O(K)$ |
 
 ---
 
