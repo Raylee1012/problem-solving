@@ -8,7 +8,7 @@
 
 ## Summary & Technical Highlights
 
-- **Goal:** Replace double quote characters (`"`) in text with TeX-style quotes, alternating between opening quotes (`` `` ``) and closing quotes (`''`).
+- **Goal:** Replace double quote characters (`"`) in text with TeX-style quotes, alternating between opening quotes (`&#96;&#96;`) and closing quotes (`''`).
 - **Character-by-Character Parsing:** Use `cin.get(c)` to read every character sequentially, ensuring spaces, newlines, and formatting are preserved intact.
 - **State Toggle:** Maintain a boolean flag `first` to track whether the current quote is opening (`true`) or closing (`false`), toggling its value upon encountering each `"`.
 
