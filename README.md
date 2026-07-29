@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 4
-- **UVa:** 4
+- **Total Solved:** 5
+- **UVa:** 5
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -21,6 +21,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 118 | Mutant Flatworld Explorers | [Link](./UVa/118_Mutant%20Flatworld%20Explorers/) | Grid Simulation, State Machine, Boundary Checking | $O(N)$ |
 | 272 | TEX Quotes | [Link](./UVa/272_TEX%20Quotes/) | Character Parsing, State Toggle, String Simulation | $O(N)$ |
 | 299 | Train Swapping | [Link](./UVa/299_Train%20Swapping/) | Bubble Sort, Inversion Counting, Simulation | $O(N^2)$ |
+| 490 | Rotating Sentences | [Link](./UVa/490_Rotating%20Sentences/) | String Traversal, Matrix Rotation, Padding | $O(N)$ |
 
 ---
 
