@@ -23,7 +23,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 299 | Train Swapping | [Link](./UVa/299_Train%20Swapping/) | Bubble Sort, Inversion Counting, Simulation | $O(N^2)$ |
 | 490 | Rotating Sentences | [Link](./UVa/490_Rotating%20Sentences/) | String Traversal, Matrix Rotation, Padding | $O(N^2)$ |
 | 948 | Fibonaccimal Base | [Link](./UVa/948_Fibonaccimal%20Base/) | Precomputation, Greedy Approach, Zeckendorf's Theorem | $O(N)$ |
-| 10008 | What's Cryptanalysis? | [Link](./UVa/10008_What's%20Cryptanalysis%3F/) | Frequency Counting, Bubble Sort, Custom Comparison | $O(N)$ |
+| 10008 | What's Cryptanalysis? | [Link](./UVa/10008_What's%20Cryptanalysis/) | Frequency Counting, Bubble Sort, Custom Comparison | $O(N)$ |
 
 ---
 
