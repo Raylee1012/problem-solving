@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 7
-- **UVa:** 7
+- **Total Solved:** 8
+- **UVa:** 8
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -24,6 +24,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 490 | Rotating Sentences | [Link](./UVa/490_Rotating%20Sentences/) | String Traversal, Matrix Rotation, Padding | $O(N^2)$ |
 | 948 | Fibonaccimal Base | [Link](./UVa/948_Fibonaccimal%20Base/) | Precomputation, Greedy Approach, Zeckendorf's Theorem | $O(N)$ |
 | 10008 | What's Cryptanalysis? | [Link](./UVa/10008_What's%20Cryptanalysis/) | Frequency Counting, Bubble Sort, Custom Comparison | $O(N)$ |
+| 10019 | Funny Encryption Method | [Link](./UVa/10019_Funny%20Encryption%20Method/) | Bit Manipulation, Base Conversion, Simulation | $O(N)$ |
 
 ---
 
