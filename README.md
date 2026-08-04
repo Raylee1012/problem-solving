@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 10
-- **UVa:** 10
+- **Total Solved:** 11
+- **UVa:** 11
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -27,6 +27,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10019 | Funny Encryption Method | [Link](./UVa/10019_Funny%20Encryption%20Method/) | Bit Manipulation, Base Conversion, Simulation | $O(N)$ |
 | 10035 | Primary Arithmetic | [Link](./UVa/10035_Primary%20Arithmetic/) | Elementary Arithmetic, Digit Simulation, Carry Counting | $O(N)$ |
 | 10038 | Jolly Jumpers | [Link](./UVa/10038_Jolly%20Jumpers/) | Array Traversal, Difference Tracking, Boolean Marking | $O(N)$ |
+| 10041 | Vito's Family | [Link](./UVa/10041_Vito's%20Family/) | Sorting, Median Property, Distance Minimization | $O(N^2)$ |
 
 ---
 
