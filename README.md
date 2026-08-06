@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 13
-- **UVa:** 13
+- **Total Solved:** 14
+- **UVa:** 14
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -30,6 +30,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10041 | Vito's Family | [Link](./UVa/10041_Vito's%20Family/) | Sorting, Median Property, Distance Minimization | $O(N^2)$ |
 | 10050 | Hartals | [Link](./UVa/10050_Hartals/) | Simulation, Boolean Array Marking, Calendar Filtering | $O(N)$ |
 | 10055 | Hashmat the Brave Warrior | [Link](./UVa/10055_Hashmat%20the%20Brave%20Warrior/) | 64-bit Arithmetic, Absolute Value, Simulation | $O(N)$ |
+| 10056 | What is the Probability? | [Link](./UVa/10056_What%20is%20the%20Probability/) | Infinite Geometric Series, Probability Theory, Closed-form Formula | $O(N)$ |
 
 ---
 
