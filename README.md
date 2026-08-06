@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 12
-- **UVa:** 12
+- **Total Solved:** 13
+- **UVa:** 13
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -29,6 +29,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10038 | Jolly Jumpers | [Link](./UVa/10038_Jolly%20Jumpers/) | Array Traversal, Difference Tracking, Boolean Marking | $O(N)$ |
 | 10041 | Vito's Family | [Link](./UVa/10041_Vito's%20Family/) | Sorting, Median Property, Distance Minimization | $O(N^2)$ |
 | 10050 | Hartals | [Link](./UVa/10050_Hartals/) | Simulation, Boolean Array Marking, Calendar Filtering | $O(N)$ |
+| 10055 | Hashmat the Brave Warrior | [Link](./UVa/10055_Hashmat%20the%20Brave%20Warrior/) | 64-bit Arithmetic, Absolute Value, Simulation | $O(N)$ |
 
 ---
 
