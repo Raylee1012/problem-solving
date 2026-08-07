@@ -10,11 +10,14 @@
 
 - **Goal:** Find a house location (street number) that minimizes the sum of absolute distances to all relatives' streets.
 - **Median Property:** The optimal location that minimizes the sum of absolute deviations is the median element of the sorted street positions.
-- **Sorting & Distance Sum:** Sort the relative street locations using `std::sort`, pick the median element at index `r / 2`, and calculate the total absolute distance to all relatives.
+- **Sorting & Distance Sum:**
+  - Reads $N$ relative street numbers into the `streets` array.
+  - Sorts relative positions using `std::sort(streets, streets + r)`.
+  - Picks the median `mid = streets[r / 2]` and calculates total absolute distances in a single linear pass.
 
 ---
 
 ## Complexity
 
-- **Time Complexity:** $O(N^2)$ — where $N$ is the number of relatives ($r$). Sorting and iterating through street coordinates bounds the overall runtime per test case.
-- **Space Complexity:** $O(N)$ — space required to store the street locations in an array.
+- **Time Complexity:** $O(N \log N)$ — bounded by `std::sort` on $N$ relatives per test case, followed by an $O(N)$ distance summation pass.
+- **Space Complexity:** $O(N)$ — space required to store street numbers in an array (up to 500 elements).

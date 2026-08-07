@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 14
-- **UVa:** 14
+- **Total Solved:** 15
+- **UVa:** 15
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -27,10 +27,11 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10019 | Funny Encryption Method | [Link](./UVa/10019_Funny%20Encryption%20Method/) | Bit Manipulation, Base Conversion, Simulation | $O(N)$ |
 | 10035 | Primary Arithmetic | [Link](./UVa/10035_Primary%20Arithmetic/) | Elementary Arithmetic, Digit Simulation, Carry Counting | $O(N)$ |
 | 10038 | Jolly Jumpers | [Link](./UVa/10038_Jolly%20Jumpers/) | Array Traversal, Difference Tracking, Boolean Marking | $O(N)$ |
-| 10041 | Vito's Family | [Link](./UVa/10041_Vito's%20Family/) | Sorting, Median Property, Distance Minimization | $O(N^2)$ |
+| 10041 | Vito's Family | [Link](./UVa/10041_Vito's%20Family/) | Sorting, Median Property, Distance Minimization | $O(N \log N)$ |
 | 10050 | Hartals | [Link](./UVa/10050_Hartals/) | Simulation, Boolean Array Marking, Calendar Filtering | $O(N)$ |
 | 10055 | Hashmat the Brave Warrior | [Link](./UVa/10055_Hashmat%20the%20Brave%20Warrior/) | 64-bit Arithmetic, Absolute Value, Simulation | $O(N)$ |
 | 10056 | What is the Probability? | [Link](./UVa/10056_What%20is%20the%20Probability/) | Infinite Geometric Series, Probability Theory, Closed-form Formula | $O(N)$ |
+| 10057 | A mid-summer night's dream | [Link](./UVa/10057_A%20mid-summer%20night's%20dream/) | Sorting, Median Property, Frequency Counting | $O(N \log N)$ |
 
 ---
 
