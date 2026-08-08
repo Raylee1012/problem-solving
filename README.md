@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 15
-- **UVa:** 15
+- **Total Solved:** 16
+- **UVa:** 16
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -32,6 +32,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10055 | Hashmat the Brave Warrior | [Link](./UVa/10055_Hashmat%20the%20Brave%20Warrior/) | 64-bit Arithmetic, Absolute Value, Simulation | $O(N)$ |
 | 10056 | What is the Probability? | [Link](./UVa/10056_What%20is%20the%20Probability/) | Infinite Geometric Series, Probability Theory, Closed-form Formula | $O(N)$ |
 | 10057 | A mid-summer night's dream | [Link](./UVa/10057_A%20mid-summer%20night's%20dream/) | Sorting, Median Property, Frequency Counting | $O(N \log N)$ |
+| 10062 | Tell me the frequencies! | [Link](./UVa/10062_Tell%20me%20the%20frequencies!/) | ASCII Frequency Counting, Custom Comparator, Sorting | $O(N)$ |
 
 ---
 
