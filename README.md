@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 16
-- **UVa:** 16
+- **Total Solved:** 17
+- **UVa:** 17
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -33,6 +33,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10056 | What is the Probability? | [Link](./UVa/10056_What%20is%20the%20Probability/) | Infinite Geometric Series, Probability Theory, Closed-form Formula | $O(N)$ |
 | 10057 | A mid-summer night's dream | [Link](./UVa/10057_A%20mid-summer%20night's%20dream/) | Sorting, Median Property, Frequency Counting | $O(N \log N)$ |
 | 10062 | Tell me the frequencies! | [Link](./UVa/10062_Tell%20me%20the%20frequencies!/) | ASCII Frequency Counting, Custom Comparator, Sorting | $O(N)$ |
+| 10071 | Back to High School Physics | [Link](./UVa/10071_Back%20to%20High%20School%20Physics/) | Kinematics Formula, Constant Acceleration, Simulation | $O(N)$ |
 
 ---
 
