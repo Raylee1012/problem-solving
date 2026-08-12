@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 17
-- **UVa:** 17
+- **Total Solved:** 18
+- **UVa:** 18
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -34,6 +34,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10057 | A mid-summer night's dream | [Link](./UVa/10057_A%20mid-summer%20night's%20dream/) | Sorting, Median Property, Frequency Counting | $O(N \log N)$ |
 | 10062 | Tell me the frequencies! | [Link](./UVa/10062_Tell%20me%20the%20frequencies!/) | ASCII Frequency Counting, Custom Comparator, Sorting | $O(N)$ |
 | 10071 | Back to High School Physics | [Link](./UVa/10071_Back%20to%20High%20School%20Physics/) | Kinematics Formula, Constant Acceleration, Simulation | $O(N)$ |
+| 10093 | An Easy Problem! | [Link](./UVa/10093_An%20Easy%20Problem!/) | Base N Divisibility, Digit Summing, Modular Arithmetic | $O(N)$ |
 
 ---
 
