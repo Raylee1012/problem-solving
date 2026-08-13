@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 18
-- **UVa:** 18
+- **Total Solved:** 19
+- **UVa:** 19
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -35,6 +35,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10062 | Tell me the frequencies! | [Link](./UVa/10062_Tell%20me%20the%20frequencies!/) | ASCII Frequency Counting, Custom Comparator, Sorting | $O(N)$ |
 | 10071 | Back to High School Physics | [Link](./UVa/10071_Back%20to%20High%20School%20Physics/) | Kinematics Formula, Constant Acceleration, Simulation | $O(N)$ |
 | 10093 | An Easy Problem! | [Link](./UVa/10093_An%20Easy%20Problem!/) | Base N Divisibility, Digit Summing, Modular Arithmetic | $O(N)$ |
+| 10101 | Bangla Numbers | [Link](./UVa/10101_Bangla%20Numbers/) | Number System Conversion, Modulo Arithmetic, Formatting | $O(N)$ |
 
 ---
 
