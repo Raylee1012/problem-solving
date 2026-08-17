@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 19
-- **UVa:** 19
+- **Total Solved:** 20
+- **UVa:** 20
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -36,6 +36,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10071 | Back to High School Physics | [Link](./UVa/10071_Back%20to%20High%20School%20Physics/) | Kinematics Formula, Constant Acceleration, Simulation | $O(N)$ |
 | 10093 | An Easy Problem! | [Link](./UVa/10093_An%20Easy%20Problem!/) | Base N Divisibility, Digit Summing, Modular Arithmetic | $O(N)$ |
 | 10101 | Bangla Numbers | [Link](./UVa/10101_Bangla%20Numbers/) | Number System Conversion, Modulo Arithmetic, Formatting | $O(N)$ |
+| 10170 | The Hotel with Infinite Rooms | [Link](./UVa/10170_The%20Hotel%20with%20Infinite%20Rooms/) | Arithmetic Simulation, Sequence Growth, 64-bit Integer | $O(\sqrt{N})$ |
 
 ---
 
