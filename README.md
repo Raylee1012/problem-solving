@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 20
-- **UVa:** 20
+- **Total Solved:** 21
+- **UVa:** 21
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -37,6 +37,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10093 | An Easy Problem! | [Link](./UVa/10093_An%20Easy%20Problem!/) | Base N Divisibility, Digit Summing, Modular Arithmetic | $O(N)$ |
 | 10101 | Bangla Numbers | [Link](./UVa/10101_Bangla%20Numbers/) | Number System Conversion, Modulo Arithmetic, Formatting | $O(N)$ |
 | 10170 | The Hotel with Infinite Rooms | [Link](./UVa/10170_The%20Hotel%20with%20Infinite%20Rooms/) | Arithmetic Simulation, Sequence Growth, 64-bit Integer | $O(\sqrt{N})$ |
+| 10189 | Minesweeper | [Link](./UVa/10189_Minesweeper/) | Grid Traversal, 8-Directional Search, Simulation | $O(N)$ |
 
 ---
 
