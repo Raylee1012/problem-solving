@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 22
-- **UVa:** 22
+- **Total Solved:** 23
+- **UVa:** 23
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -39,6 +39,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10170 | The Hotel with Infinite Rooms | [Link](./UVa/10170_The%20Hotel%20with%20Infinite%20Rooms/) | Arithmetic Simulation, Sequence Growth, 64-bit Integer | $O(\sqrt{N})$ |
 | 10189 | Minesweeper | [Link](./UVa/10189_Minesweeper/) | Grid Traversal, 8-Directional Search, Simulation | $O(N)$ |
 | 10190 | Divide, But Not Quite Conquer! | [Link](./UVa/10190_Divide,%20But%20Not%20Quite%20Conquer!/) | Iterative Division, Sequence Simulation, Vector Storage | $O(\log N)$ |
+| 10193 | All You Need Is Love | [Link](./UVa/10193_All%20You%20Need%20Is%20Love/) | Binary to Decimal Conversion, GCD, Euclidean Algorithm | $O(N)$ |
 
 ---
 
