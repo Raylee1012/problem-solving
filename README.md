@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 24
-- **UVa:** 24
+- **Total Solved:** 25
+- **UVa:** 25
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -41,6 +41,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10190 | Divide, But Not Quite Conquer! | [Link](./UVa/10190_Divide,%20But%20Not%20Quite%20Conquer!/) | Iterative Division, Sequence Simulation, Vector Storage | $O(\log N)$ |
 | 10193 | All You Need Is Love | [Link](./UVa/10193_All%20You%20Need%20Is%20Love/) | Binary to Decimal Conversion, GCD, Euclidean Algorithm | $O(N)$ |
 | 10221 | Satellites | [Link](./UVa/10221_Satellites/) | Circle Geometry, Trigonometry, Angle Normalization | $O(1)$ |
+| 10222 | Decode the Mad man | [Link](./UVa/10222_Decode%20the%20Mad%20man/) | String Lookup, Keyboard Shifting, Character Mapping | $O(N)$ |
 
 ---
 
