@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 27
-- **UVa:** 27
+- **Total Solved:** 28
+- **UVa:** 28
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -44,6 +44,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10222 | Decode the Mad man | [Link](./UVa/10222_Decode%20the%20Mad%20man/) | String Lookup, Keyboard Shifting, Character Mapping | $O(N)$ |
 | 10226 | Hardwood Species | [Link](./UVa/10226_Hardwood%20Species/) | Frequency Counting, Alphabetical Sorting, Index Mapping | $O(N^2)$ |
 | 10235 | Simply Emirp | [Link](./UVa/10235_Simply%20Emirp/) | Primality Testing, Trial Division, Number Reversal | $O(\sqrt{N})$ |
+| 10242 | Fourth Point !! | [Link](./UVa/10242_Fourth%20Point%20!!/) | Coordinate Geometry, Parallelogram Law, Vector Addition | $O(1)$ |
 
 ---
 
