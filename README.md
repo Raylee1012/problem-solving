@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 30
-- **UVa:** 30
+- **Total Solved:** 31
+- **UVa:** 31
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -47,6 +47,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10242 | Fourth Point !! | [Link](./UVa/10242_Fourth%20Point%20!!/) | Coordinate Geometry, Parallelogram Law, Vector Addition | $O(1)$ |
 | 10252 | Common Permutation | [Link](./UVa/10252_Common%20Permutation/) | Character Frequency Counting, Alphabet Traversal, String Construction | $O(N)$ |
 | 10268 | 498-bis | [Link](./UVa/10268_498-bis/) | Horner's Rule, Polynomial Derivative, Stream Parsing | $O(N)$ |
+| 10409 | Die Game | [Link](./UVa/10409_Die%20Game/) | State Simulation, Permutation Cycle, 3D Orientation | $O(N)$ |
 
 ---
 
