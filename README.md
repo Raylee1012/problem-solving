@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 29
-- **UVa:** 29
+- **Total Solved:** 30
+- **UVa:** 30
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -46,6 +46,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10235 | Simply Emirp | [Link](./UVa/10235_Simply%20Emirp/) | Primality Testing, Trial Division, Number Reversal | $O(\sqrt{N})$ |
 | 10242 | Fourth Point !! | [Link](./UVa/10242_Fourth%20Point%20!!/) | Coordinate Geometry, Parallelogram Law, Vector Addition | $O(1)$ |
 | 10252 | Common Permutation | [Link](./UVa/10252_Common%20Permutation/) | Character Frequency Counting, Alphabet Traversal, String Construction | $O(N)$ |
+| 10268 | 498-bis | [Link](./UVa/10268_498-bis/) | Horner's Rule, Polynomial Derivative, Stream Parsing | $O(N)$ |
 
 ---
 
