@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 31
-- **UVa:** 31
+- **Total Solved:** 32
+- **UVa:** 32
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -48,6 +48,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10252 | Common Permutation | [Link](./UVa/10252_Common%20Permutation/) | Character Frequency Counting, Alphabet Traversal, String Construction | $O(N)$ |
 | 10268 | 498-bis | [Link](./UVa/10268_498-bis/) | Horner's Rule, Polynomial Derivative, Stream Parsing | $O(N)$ |
 | 10409 | Die Game | [Link](./UVa/10409_Die%20Game/) | State Simulation, Permutation Cycle, 3D Orientation | $O(N)$ |
+| 10415 | Eb Alto Saxophone Player | [Link](./UVa/10415_Eb%20Alto%20Saxophone%20Player/) | State Tracking, Lookup Table, Simulation | $O(N)$ |
 
 ---
 
