@@ -8,13 +8,18 @@
 
 ## Summary & Technical Highlights
 
-- **Goal:** Rotate input sentences 90 degrees clockwise and output them character by character.
-- **Dynamic Input Storage:** Store all input lines in a `std::vector<std::string>` using `getline()` while tracking the length of the longest sentence `maxLen`.
-- **Matrix Rotation Iteration:** Outer loop iterates through character index $i$ from $0$ to `maxLen - 1`. Inner loop iterates backwards from the last sentence down to index $0$. If $i$ falls outside a sentence's length, output a padding space `' '`.
+- **Goal:** Rotate multiple lines of text $90^\circ$ clockwise such that the first sentence becomes the rightmost column and earlier characters appear toward the top.
+- **Dynamic 2D Traversal & In-Place Padding:**
+  - Collects all input lines into a `std::vector<std::string>` while keeping track of the maximum line length `maxLen`.
+  - Outer loop iterates column indices from `0` to `maxLen - 1`.
+  - Inner loop traverses the stored sentences in reverse order from index `sentences.size() - 1` down to `0`.
+  - If a sentence has fewer than `i + 1` characters, prints a blank space `' '` to preserve grid alignment without mutating original strings.
+- **Type Safety:**
+  - Explicitly casts `sentences[j].length()` to `(int)` to prevent signed/unsigned integer comparison mismatches.
 
 ---
 
 ## Complexity
 
-- **Time Complexity:** $O(N^2)$ — where $N$ is the maximum dimension of the sentence matrix (max sentence length and total lines).
-- **Space Complexity:** $O(N^2)$ — required memory to store all input sentences in the vector matrix.
+- **Time Complexity:** $O(N^2)$ — where $N$ represents the maximum dimension of the text grid ($\max(\text{rows}, \text{maxLen})$). Traversal requires visiting all cells in the rotated grid.
+- **Space Complexity:** $O(N^2)$ — memory needed to store all lines of sentences in a vector.
