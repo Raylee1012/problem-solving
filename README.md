@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 33
-- **UVa:** 33
+- **Total Solved:** 34
+- **UVa:** 34
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -50,6 +50,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10409 | Die Game | [Link](./UVa/10409_Die%20Game/) | State Simulation, Permutation Cycle, 3D Orientation | $O(N)$ |
 | 10415 | Eb Alto Saxophone Player | [Link](./UVa/10415_Eb%20Alto%20Saxophone%20Player/) | State Tracking, Lookup Table, Simulation | $O(N)$ |
 | 10420 | List of Conquests | [Link](./UVa/10420_List%20of%20Conquests/) | Frequency Counting, Alphabetical Sorting, Index Mapping | $O(N^2)$ |
+| 10642 | Can You Solve It? | [Link](./UVa/10642_Can%20You%20Solve%20It/) | Discrete Math, Diagonal Traversal, Prefix Sum Formula | $O(1)$ |
 
 ---
 
