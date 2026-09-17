@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 35
-- **UVa:** 35
+- **Total Solved:** 36
+- **UVa:** 36
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -52,6 +52,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10420 | List of Conquests | [Link](./UVa/10420_List%20of%20Conquests/) | Frequency Counting, Alphabetical Sorting, Index Mapping | $O(N^2)$ |
 | 10642 | Can You Solve It? | [Link](./UVa/10642_Can%20You%20Solve%20It/) | Discrete Math, Diagonal Traversal, Prefix Sum Formula | $O(1)$ |
 | 10783 | Odd Sum | [Link](./UVa/10783_Odd%20Sum/) | Interval Traversal, Parity Check, Sum Accumulation | $O(N)$ |
+| 10812 | Beat the Spread! | [Link](./UVa/10812_Beat%20the%20Spread!/) | Math, System of Linear Equations, Parity Check | $O(1)$ |
 
 ---
 
