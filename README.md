@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 37
-- **UVa:** 37
+- **Total Solved:** 38
+- **UVa:** 38
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -54,6 +54,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10783 | Odd Sum | [Link](./UVa/10783_Odd%20Sum/) | Interval Traversal, Parity Check, Sum Accumulation | $O(N)$ |
 | 10812 | Beat the Spread! | [Link](./UVa/10812_Beat%20the%20Spread!/) | Math, System of Linear Equations, Parity Check | $O(1)$ |
 | 10908 | Largest Square | [Link](./UVa/10908_Largest%20Square/) | 2D Grid Simulation, Concentric Expansion, Area Checking | $O(N^3)$ |
+| 10922 | 2 the 9s | [Link](./UVa/10922_2%20the%209s/) | Big Integer Simulation, Digit Sum, Divisibility by 9 | $O(N)$ |
 
 ---
 
