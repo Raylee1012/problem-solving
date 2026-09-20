@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 38
-- **UVa:** 38
+- **Total Solved:** 39
+- **UVa:** 39
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -55,6 +55,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10812 | Beat the Spread! | [Link](./UVa/10812_Beat%20the%20Spread!/) | Math, System of Linear Equations, Parity Check | $O(1)$ |
 | 10908 | Largest Square | [Link](./UVa/10908_Largest%20Square/) | 2D Grid Simulation, Concentric Expansion, Area Checking | $O(N^3)$ |
 | 10922 | 2 the 9s | [Link](./UVa/10922_2%20the%209s/) | Big Integer Simulation, Digit Sum, Divisibility by 9 | $O(N)$ |
+| 10929 | You can say 11 | [Link](./UVa/10929_You%20can%20say%2011/) | Big Integer Simulation, Alternating Digit Sum, Divisibility by 11 | $O(N)$ |
 
 ---
 
