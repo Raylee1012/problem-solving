@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 40
-- **UVa:** 40
+- **Total Solved:** 41
+- **UVa:** 41
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -57,6 +57,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10922 | 2 the 9s | [Link](./UVa/10922_2%20the%209s/) | Big Integer Simulation, Digit Sum, Divisibility by 9 | $O(N)$ |
 | 10929 | You can say 11 | [Link](./UVa/10929_You%20can%20say%2011/) | Big Integer Simulation, Alternating Digit Sum, Divisibility by 11 | $O(N)$ |
 | 10931 | Parity | [Link](./UVa/10931_Parity/) | Base Conversion, Binary Representation, Bit Counting | $O(\log N)$ |
+| 11005 | Cheapest Base | [Link](./UVa/11005_Cheapest%20Base/) | Base Conversion, Cost Optimization, Enumeration | $O(\log N)$ |
 
 ---
 
