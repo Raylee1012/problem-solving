@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 42
-- **UVa:** 42
+- **Total Solved:** 43
+- **UVa:** 43
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -59,6 +59,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 10931 | Parity | [Link](./UVa/10931_Parity/) | Base Conversion, Binary Representation, Bit Counting | $O(\log N)$ |
 | 11005 | Cheapest Base | [Link](./UVa/11005_Cheapest%20Base/) | Base Conversion, Cost Optimization, Enumeration | $O(\log N)$ |
 | 11063 | B2-Sequence | [Link](./UVa/11063_B2-Sequence/) | Array Traversal, Pairwise Sums, Hash/Lookup Table | $O(N^2)$ |
+| 11150 | Cola | [Link](./UVa/11150_Cola/) | Simulation, Greedy Exchange, Math | $O(\log N)$ |
 
 ---
 
