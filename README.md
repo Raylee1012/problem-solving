@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 44
-- **UVa:** 44
+- **Total Solved:** 45
+- **UVa:** 45
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -61,6 +61,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 11063 | B2-Sequence | [Link](./UVa/11063_B2-Sequence/) | Array Traversal, Pairwise Sums, Hash/Lookup Table | $O(N^2)$ |
 | 11150 | Cola | [Link](./UVa/11150_Cola/) | Simulation, Greedy Exchange, Math | $O(\log N)$ |
 | 11321 | Sort! Sort!! and Sort!!! | [Link](./UVa/11321_Sort!%20Sort!!%20and%20Sort!!!/) | Custom Comparator, Modulo Sorting, Parity Handling | $O(N \log N)$ |
+| 11332 | Summing Digits | [Link](./UVa/11332_Summing%20Digits/) | String Simulation, Digital Root, Digit Sum | $O(\log N)$ |
 
 ---
 
