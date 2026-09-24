@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 46
-- **UVa:** 46
+- **Total Solved:** 47
+- **UVa:** 47
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -63,6 +63,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 11321 | Sort! Sort!! and Sort!!! | [Link](./UVa/11321_Sort!%20Sort!!%20and%20Sort!!!/) | Custom Comparator, Modulo Sorting, Parity Handling | $O(N \log N)$ |
 | 11332 | Summing Digits | [Link](./UVa/11332_Summing%20Digits/) | String Simulation, Digital Root, Digit Sum | $O(\log N)$ |
 | 11349 | Symmetric Matrix | [Link](./UVa/11349_Symmetric%20Matrix/) | Matrix Traversal, Point Symmetry, Boundary Checking | $O(N^2)$ |
+| 11417 | GCD | [Link](./UVa/11417_GCD/) | Number Theory, Euclidean Algorithm, Pairwise Summation | $O(N^2 \log N)$ |
 
 ---
 
