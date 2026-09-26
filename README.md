@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 48
-- **UVa:** 48
+- **Total Solved:** 49
+- **UVa:** 49
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -65,6 +65,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 11349 | Symmetric Matrix | [Link](./UVa/11349_Symmetric%20Matrix/) | Matrix Traversal, Point Symmetry, Boundary Checking | $O(N^2)$ |
 | 11417 | GCD | [Link](./UVa/11417_GCD/) | Number Theory, Euclidean Algorithm, Pairwise Summation | $O(N^2 \log N)$ |
 | 11461 | Square Numbers | [Link](./UVa/11461_Square%20Numbers/) | Math, Square Root, Closed-form Counting | $O(1)$ |
+| 12019 | Doom's Day Algorithm | [Link](./UVa/12019_Doom's%20Day%20Algorithm/) | Modular Arithmetic, Lookup Table, Doomsday Rule | $O(1)$ |
 
 ---
 
