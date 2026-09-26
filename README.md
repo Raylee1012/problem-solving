@@ -6,8 +6,8 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 
 ## Summary
 
-- **Total Solved:** 47
-- **UVa:** 47
+- **Total Solved:** 48
+- **UVa:** 48
 - **LeetCode:** 0
 - **Primary Language:** C++
 
@@ -64,6 +64,7 @@ A structured repository tracking my algorithmic problem-solving progress on **UV
 | 11332 | Summing Digits | [Link](./UVa/11332_Summing%20Digits/) | String Simulation, Digital Root, Digit Sum | $O(\log N)$ |
 | 11349 | Symmetric Matrix | [Link](./UVa/11349_Symmetric%20Matrix/) | Matrix Traversal, Point Symmetry, Boundary Checking | $O(N^2)$ |
 | 11417 | GCD | [Link](./UVa/11417_GCD/) | Number Theory, Euclidean Algorithm, Pairwise Summation | $O(N^2 \log N)$ |
+| 11461 | Square Numbers | [Link](./UVa/11461_Square%20Numbers/) | Math, Square Root, Closed-form Counting | $O(1)$ |
 
 ---
 
